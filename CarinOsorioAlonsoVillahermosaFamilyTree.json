@@ -1,7 +1,7 @@
 {
   "FamilyTree": [
       {
-          "husband": "Carin",
+          "husband": "Carin surname",
           "profile": "https://github.com/niracaj/CarinOsorioAlonsoVillahermosaFamilyTree/blob/main/CarinOsorioAlonsoVillahermosaFamilyTree.json",
           "imageurl": [
             "https://i0.wp.com/www.globalemancipation.ngo/wp-content/uploads/2017/09/github-logo.png"
@@ -785,7 +785,7 @@
           ]
       },
       {
-          "husband": "Alonso",
+          "husband": "Alonso surname",
           "profile": "https://github.com/niracaj/CarinOsorioAlonsoVillahermosaFamilyTree/blob/main/CarinOsorioAlonsoVillahermosaFamilyTree.json",
           "imageurl": [
               "https://i0.wp.com/www.globalemancipation.ngo/wp-content/uploads/2017/09/github-logo.png"
@@ -847,10 +847,10 @@
                               },
                               {
                                   "husband": "Elson Alonso",
-                                  "wife": "Missy",
+                                  "wife": "Missy Duque",
                                   "children": [
                                       {
-                                          "wife": "Sema Alonso",
+                                          "wife": "Seema Alonso",
                                           "imageurl": [
                                               "https://scontent-msp1-1.xx.fbcdn.net/v/t31.18172-8/15288590_10155625072032818_2709170571195483934_o.jpg?_nc_cat=102&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=QeEhON0y4v0AX9v2x2o&_nc_ht=scontent-msp1-1.xx&oh=00_AfChiBdWcc6TBzxjVdrDJBZHdxse2d3wT2xPsgOZdB2WQQ&oe=6577B295"
                                           ],
@@ -858,14 +858,13 @@
                                       },
                                       {
                                           "wife": "Alonso",
-                                          "imageurl": [
-                                              "https://scontent-msp1-1.xx.fbcdn.net/v/t39.30808-6/346843157_542206357878481_8431477655023387142_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-oEgws-wDygAX-p0N_T&_nc_oc=AQkaQ4OvDR2fxCCyUFUHCSND7wIcBjDx6XG-OLBEtFFNS3YH1sM7_4eZKpzhuYOyMsc&_nc_ht=scontent-msp1-1.xx&oh=00_AfBSCiLpCuaJWZDnI0gb0j5Z65mmRgi-zVLEzVTJJlV_XA&oe=6554BDA6"
-                                          ],
+					  "imageurl": ["https://scontent-msp1-1.xx.fbcdn.net/v/t39.30808-6/346843157_542206357878481_8431477655023387142_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-oEgws-wDygAX-p0N_T&_nc_oc=AQkaQ4OvDR2fxCCyUFUHCSND7wIcBjDx6XG-OLBEtFFNS3YH1sM7_4eZKpzhuYOyMsc&_nc_ht=scontent-msp1-1.xx&oh=00_AfBSCiLpCuaJWZDnI0gb0j5Z65mmRgi-zVLEzVTJJlV_XA&oe=6554BDA6"],
                                           "profile": ""
                                       }
                                   ],
                                   "profile": "https://www.facebook.com/elson.alonso",
                                   "imageurl": [
+			  	      "https://scontent-msp1-1.xx.fbcdn.net/v/t39.30808-6/346843157_542206357878481_8431477655023387142_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-oEgws-wDygAX-p0N_T&_nc_oc=AQkaQ4OvDR2fxCCyUFUHCSND7wIcBjDx6XG-OLBEtFFNS3YH1sM7_4eZKpzhuYOyMsc&_nc_ht=scontent-msp1-1.xx&oh=00_AfBSCiLpCuaJWZDnI0gb0j5Z65mmRgi-zVLEzVTJJlV_XA&oe=6554BDA6",
                                       "https://thumbnails-photos.amazon.com/v1/thumbnail/W_d9L4IESXumHgjXrqrr6Q?viewBox=1063%2C797&ownerId=A2JTDLLBPEGJ0F&groupShareToken=bGjOQ7MqRXuvZhDvTYOcXQ.RfFEk4jrcyeJrHGs0touQI"
                                   ]
                               },
@@ -1078,7 +1077,7 @@
           ]
       },
       {
-          "husband": "Villahermosa",
+          "husband": "Villahermosa surname",
           "profile": "https://github.com/niracaj/CarinOsorioAlonsoVillahermosaFamilyTree/blob/main/CarinOsorioAlonsoVillahermosaFamilyTree.json",
           "imageurl": [
               "https://i0.wp.com/www.globalemancipation.ngo/wp-content/uploads/2017/09/github-logo.png"
@@ -1124,7 +1123,7 @@
           ]
       },
       {
-          "husband": "Osorio",
+          "husband": "Osorio surname",
           "profile": "https://github.com/niracaj/CarinOsorioAlonsoVillahermosaFamilyTree/blob/main/CarinOsorioAlonsoVillahermosaFamilyTree.json",
           "imageurl": [
               "https://i0.wp.com/www.globalemancipation.ngo/wp-content/uploads/2017/09/github-logo.png"
@@ -1305,7 +1304,7 @@
           ]
       },
       {
-          "husband": "Dicdican",
+          "husband": "Dicdican surname",
           "profile": "https://github.com/niracaj/CarinOsorioAlonsoVillahermosaFamilyTree/blob/main/CarinOsorioAlonsoVillahermosaFamilyTree.json",
           "imageurl": [
               "https://i0.wp.com/www.globalemancipation.ngo/wp-content/uploads/2017/09/github-logo.png"
