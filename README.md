@@ -30,3 +30,7 @@ Now you can track and trace your, and previous, generation in this website. If y
 
 Have fun and enjoy Thank you.
 [www.carinclan.com](http://www.carinclan.com)
+
+<div align="center">
+<img src="https://www.carinclan.com/ti/Screenshot--2--0300-0168.jpg" alt="www.carinclan.com" />
+</div>
