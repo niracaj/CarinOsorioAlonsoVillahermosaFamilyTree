@@ -28,4 +28,4 @@ According to the history, the Spanish colonization in 1565 prompted the establis
 Now you can track and trace your, and previous, generation in this website. If you have any correction of the record, or if you cannot find any of your generation in this website, please send your message through Facebook to Carin Clan Group.
 
 Have fun and enjoy Thank you.
-[www.carinclan.com](www.carinclan.com)
+[www.carinclan.com](http://www.carinclan.com)
