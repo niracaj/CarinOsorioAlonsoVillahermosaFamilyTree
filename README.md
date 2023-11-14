@@ -14,6 +14,7 @@ My uncle Sonny started compiling this family tree of the Carins back when I was 
 
 
 Origin of Carin Family from [www.carinclan.com](http://www.carinclan.com)
+
 We have been told that Tata Patricio ”Etyong” Carin came from Spain.
 
 We searched further on the other side of the globe and that is Mexico with the timeframe during 1700 to 1800. We found lots of Carin family records in Mexico too. We did more digging to gather some facts about our forefather. We tried to search more about our ancestors. We found some records in Philippines registrar of birth, marriages and death, but because we do not have the exact dates and some names were recorded only by nicknames, we cannot find some of the records of our ancestors to support our data.
@@ -29,6 +30,7 @@ According to the history, the Spanish colonization in 1565 prompted the establis
 Now you can track and trace your, and previous, generation in this website. If you have any correction of the record, or if you cannot find any of your generation in this website, please send your message through Facebook to Carin Clan Group.
 
 Have fun and enjoy Thank you.
+
 [www.carinclan.com](http://www.carinclan.com)
 
 <div align="center">
