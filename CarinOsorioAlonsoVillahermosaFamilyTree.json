@@ -1,5 +1,5 @@
 {
-    "URL": "http://carinipaddress/FamilyTree.html",
+    "URL": "http://64.235.68.38/FamilyTree.html",
     "FamilyTree": [
         {
             "husband": "Carin surname",
@@ -818,18 +818,18 @@
                                                             "wife": "Marie Bonagura",
                                                             "profile": "http://www.caringforcardano.com/",
                                                             "imageurl": [
-                                                                "Screenshot_20261103_131501.png",
-                                                                "Screenshot_20261103_131438.png",
-                                                                "Screenshot_20261103_131410.png",
-                                                                "Screenshot_20261103_131337.png",
-                                                                "Screenshot_20261103_131245.png",
-                                                                "Screenshot_20261103_131214.png",
-                                                                "Screenshot_20261103_131149.png",
-                                                                "Screenshot_20261103_131121.png",
-                                                                "Screenshot_20261103_131049.png",
-                                                                "Screenshot_20261103_131022.png",
-                                                                "Screenshot_20261103_130952.png",
-                                                                "Screenshot_20261103_130922.png"
+                                                                "http://carinipaddress/images/FamilyTreeTextures/Screenshot_20261103_131501.png",
+                                                                "http://carinipaddress/images/FamilyTreeTextures/Screenshot_20261103_131438.png",
+                                                                "http://carinipaddress/images/FamilyTreeTextures/Screenshot_20261103_131410.png",
+                                                                "http://carinipaddress/images/FamilyTreeTextures/Screenshot_20261103_131337.png",
+                                                                "http://carinipaddress/images/FamilyTreeTextures/Screenshot_20261103_131245.png",
+                                                                "http://carinipaddress/images/FamilyTreeTextures/Screenshot_20261103_131214.png",
+                                                                "http://carinipaddress/images/FamilyTreeTextures/Screenshot_20261103_131149.png",
+                                                                "http://carinipaddress/images/FamilyTreeTextures/Screenshot_20261103_131121.png",
+                                                                "http://carinipaddress/images/FamilyTreeTextures/Screenshot_20261103_131049.png",
+                                                                "http://carinipaddress/images/FamilyTreeTextures/Screenshot_20261103_131022.png",
+                                                                "http://carinipaddress/images/FamilyTreeTextures/Screenshot_20261103_130952.png",
+                                                                "http://carinipaddress/images/FamilyTreeTextures/Screenshot_20261103_130922.png"
                                                             ],
                                                             "children": [
                                                                 {
@@ -837,17 +837,17 @@
                                                                     "imageurl": [
                                                                         "https://thumbnails-photos.amazon.com/v1/thumbnail/MoLdFbebQNyz1zvYgNNGJg?viewBox=596%2C893&ownerId=A2JTDLLBPEGJ0F"
                                                                     ],
-                                                                    "profile": "http://carinipaddress:3009/explore&room=Outside&from=1.5,1.-4,-10&map=gallery2"
+                                                                    "profile": "http://64.235.68.38:3009/explore&room=Outside&from=1.5,1.-4,-10&map=gallery2"
                                                                 },
                                                                 {
                                                                     "wife": "Fatima Carin",
                                                                     "imageurl": [
-                                                                        "http://carinipaddress/images/FamilyTreeTextures/Screenshot_20261103_124535.png",
-                                                                        "http://carinipaddress/images/FamilyTreeTextures/Screenshot_20261103_124503.png",
-                                                                        "http://carinipaddress/images/FamilyTreeTextures/Screenshot_20261103_124401.png",
-                                                                        "http://carinipaddress/images/FamilyTreeTextures/Screenshot_20261103_124253.png"
+                                                                        "http://64.235.68.38/images/FamilyTreeTextures/Screenshot_20261103_124535.png",
+                                                                        "http://64.235.68.38/images/FamilyTreeTextures/Screenshot_20261103_124503.png",
+                                                                        "http://64.235.68.38/images/FamilyTreeTextures/Screenshot_20261103_124401.png",
+                                                                        "http://64.235.68.38/images/FamilyTreeTextures/Screenshot_20261103_124253.png"
                                                                     ],
-                                                                    "profile": "http://carinipaddress:3009/explore&room=Outside&from=0.7,1.-4,-5.5&map=gallery1"
+                                                                    "profile": "http://64.235.68.38:3009/explore&room=Outside&from=0.7,1.-4,-5.5&map=gallery1"
                                                                 }
                                                             ]
                                                         },
