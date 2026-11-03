@@ -842,7 +842,7 @@
                                                                     "imageurl": [
                                                                         "https://thumbnails-photos.amazon.com/v1/thumbnail/MoLdFbebQNyz1zvYgNNGJg?viewBox=596%2C893&ownerId=A2JTDLLBPEGJ0F"
                                                                     ],
-                                                                    "profile": "http://64.235.68.38/:3009/explore&room=Outside&from=1.5,1.-4,-10&map=gallery2"
+                                                                    "profile": "http://64.235.68.38:3009/explore&room=Outside&from=1.5,1.-4,-10&map=gallery2"
                                                                 },
                                                                 {
                                                                     "wife": "Fatima Carin",
@@ -851,7 +851,7 @@
                                                                         "https://www.amazon.com/photos/shared/wKy8XMgIT-elDvBIZVsXXA.8Rl6QjTmXwFIuD01SZnN0-",
                                                                         "https://www.amazon.com/photos/shared/i2xEXGmeSuuVQI4ZrdXvjA.oZn70AqPpPTYdyWuAo_cKf"
                                                                     ],
-                                                                    "profile": "http://64.235.68.38/:3009/explore&room=Outside&from=0.7,1.-4,-5.5&map=gallery1"
+                                                                    "profile": "http://64.235.68.38:3009/explore&room=Outside&from=0.7,1.-4,-5.5&map=gallery1"
                                                                 }
                                                             ]
                                                         },
