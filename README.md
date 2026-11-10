@@ -5,7 +5,7 @@
   <hr/>
 </div>
 
-HTML View [here](http://caringforcardano.com/FamilyTree.html).
+HTML View [here](http://caringforcardano.com/CarinFamilyTree.html).
 
 My uncle Sonny started compiling this family tree of the Carins back when I was a child. Recently I added the Alonso, Osorio, Villahermosa families to the tree. Renelle provided Grandma Fredding's notes on the Osorio family tree. The text file is in java script object notation (JSON). I added it to GitHub so it can be maintained by anyone for many generations in the future.
 
